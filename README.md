@@ -12,5 +12,4 @@ References
 
 [1] Gray RA, Franz MR. A Model for Human Action Potential Dynamics In Vivo. American Journal of Physiology – Heart and Circulatory Physiology, 2020: doi.org/10.1152/ajpheart.00557.2019. https://journals.physiology.org/doi/full/10.1152/ajpheart.00557.2019 & https://pubmed.ncbi.nlm.nih.gov/31951472/
 
-
 [2] CellML.Org
