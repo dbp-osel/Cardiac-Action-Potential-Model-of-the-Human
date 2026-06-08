@@ -1,3 +1,10 @@
+o	This repository has been archived and is no longer maintained.
+
+o	The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+
+o	It should not be used in production systems.
+
+
 # Cardiac-Action-Potential-Model-of-the-Human
 
 This software code provides a model of the human cardiac action potential described in [1]. The model code is written in CellML which is an open standard based on the XML markup language [2]. The model was derived from voltage clamp experimental data from canine ventricular myocytes/tissue under nearly identical and physiological conditions. This model of the human action potential is moderately complex with six currents and seven variables, including a novel phenomenological model of dynamic diastolic calcium concentration (CaiD). The model was calibrated using the following well-known and important electro-physiological phenomena measured from patients during programmed electrical stimulation (PES): 1) action potential duration; and 2) take-off potential. The model was validated by comparing simulation results to several clinical studies including conduction speed, the ratio of effective refractory period and action potential duration, and arrhythmia induction during PES. The novelty of this model is that the voltage dependence of inactivation the rapid sodium current is an experimentally derived function of CaiD. This relationship allows for the action potential and conduction dynamics measured in patients during PES. For more information about the model please refer to [1]. There are a variety of OpenSource Tools to run this CellML model (see [2]).
